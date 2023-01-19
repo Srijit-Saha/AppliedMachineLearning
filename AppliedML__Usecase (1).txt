@@ -1,0 +1,145 @@
+ML Use Cases for Fraud Detection:
+Problem Framing:
+Current State
+
+Objectives
+
+Cost/Benefit Analysis
+
+Constraints
+
+Final State
+
+Qualitative
+Too Many Fraud cases
+=> Low Customer
+Investment Sentiment
+=> Lower Cash flow +
+Direct Revenue losses
+through Fraud =>
+Lower Bank revenue
+Build a model that can
+spot fraud cases
+efficiently within a
+short span of the
+fraudulent transaction
+Decrease Fraud Cases
+=> Improve Customer
+Sentiment => Higher
+Cash flow => Improve
+revenue
+FP – Normal Bank
+transactions
+misidentified as
+fraudulent => doesn’t
+affect user experience
+much => no significant
+impact on revenue
+FN – Fraud remains
+undetected => Low
+user trust => Loss in
+bank revenue
+TP – Fraudulent cases
+detected => Higher
+Bank reliability =>
+more Cash flows =>
+Higher Bank Revenue
+TN - Normal
+transactions classified
+as non-fraud =>
+maintained bank user
+experience => No
+significant impact
+Can afford a very small
+percent of FN => Small
+percentage of loss in
+cash flow => Limited
+loss in revenue.
+Benefits: significantly
+lesser fraud =>
+
+Quantitative
+5% Fraud Cases => 810% decrease in cash
+flow + 2% direct
+loss(depending on
+fraud size) => 12-15%
+loss in revenue
+Reduce fraud cases by
+60% (5% to 2%) => 6%
+increase in cash flow =>
+9% increase in revenue
+
+Cost-Benefit Matrix
+C(TP)
+C(FP)
+C(FN)
+C(TN)
+
+What is the
+current problems
+we are facing in
+the initial state,
+and why do we
+need to rectify
+them.
+What is it that we
+are doing and
+why? (Improve
+Bank Revenue in
+this case)
+
+What are the cost,
+benefits of correct
+predictions and
+why?
+
+1% TP => 0.5% increase
+in cash flow => 0.5%
+revenue increase
+1% FP => -.05% cash
+flow due to customer
+harassment causing
+decline in user
+experience => -.1% loss
+in bank revenue
+1% FN => 0.6% risk of
+direct lump sum loss
+=>4% cash flow loss =>
+7% loss in revenue
+1% TN => no significant
+impact on bank.
+At most 5% FN => 3%
+risk of lump sum loss
+=> acceptable for 9%
+increase in revenue.
+At least 60% decrease
+in Fraud cases
+
+What are the
+acceptable risk
+margins and why?
+
+What is the
+desired outcome
+
+Significantly better
+user experience =>
+Generates more
+circular cash flow =>
+More bank revenue
+Costs:- Cant allow too
+many FN’s => limited
+risk of direct loss + loss
+through lower
+customer sentiment =>
+limited loss in revenue
+
+At most 5% FN allowed
+=> 3% of risk of lump
+sum loss => 5% risk in
+revenue loss.
+
+that we want to
+see?
+
+
