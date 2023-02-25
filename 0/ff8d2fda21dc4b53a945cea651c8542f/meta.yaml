@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlruns/0/ff8d2fda21dc4b53a945cea651c8542f/artifacts
+end_time: 1677311572006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8d2fda21dc4b53a945cea651c8542f
+run_name: adorable-cat-527
+run_uuid: ff8d2fda21dc4b53a945cea651c8542f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677311564764
+status: 3
+tags: []
+user_id: User

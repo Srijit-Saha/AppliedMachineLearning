@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlruns/0/dc9691bf810245fcbd3586a2b0ba9f80/artifacts
+end_time: 1677311584258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc9691bf810245fcbd3586a2b0ba9f80
+run_name: flawless-stoat-307
+run_uuid: dc9691bf810245fcbd3586a2b0ba9f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677311577114
+status: 3
+tags: []
+user_id: User

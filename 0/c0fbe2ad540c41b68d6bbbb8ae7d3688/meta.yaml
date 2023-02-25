@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlruns/0/c0fbe2ad540c41b68d6bbbb8ae7d3688/artifacts
+end_time: 1677311507567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0fbe2ad540c41b68d6bbbb8ae7d3688
+run_name: angry-grub-139
+run_uuid: c0fbe2ad540c41b68d6bbbb8ae7d3688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677311501234
+status: 3
+tags: []
+user_id: User

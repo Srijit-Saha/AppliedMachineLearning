@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlruns/0/206104bb7c9b4194b507c4c713cecae4/artifacts
+end_time: 1677311663217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206104bb7c9b4194b507c4c713cecae4
+run_name: mercurial-stag-592
+run_uuid: 206104bb7c9b4194b507c4c713cecae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677311625439
+status: 3
+tags: []
+user_id: User

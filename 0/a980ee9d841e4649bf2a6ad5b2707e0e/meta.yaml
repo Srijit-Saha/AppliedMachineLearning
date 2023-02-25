@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/mlruns/0/a980ee9d841e4649bf2a6ad5b2707e0e/artifacts
+end_time: 1677311510187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a980ee9d841e4649bf2a6ad5b2707e0e
+run_name: luminous-boar-48
+run_uuid: a980ee9d841e4649bf2a6ad5b2707e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677311510129
+status: 4
+tags: []
+user_id: User
